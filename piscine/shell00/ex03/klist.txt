@@ -1,0 +1,5 @@
+Credentials cache: API:8FC4B712-CAE6-400C-AE7E-AF3B6CF218B2
+        Principal: jchapman@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Nov 23 10:54:29 2021  Nov 23 20:54:29 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
